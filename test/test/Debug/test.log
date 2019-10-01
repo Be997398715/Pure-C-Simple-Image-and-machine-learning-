@@ -1,0 +1,94 @@
+﻿  10_mid_fitler.c
+f:\32_leetcode_image\image\src\10_mid_fitler.c(6): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\10_mid_fitler.c(35): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\10_mid_fitler.c(36): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\10_mid_fitler.c(37): warning C4018: “<”: 有符号/无符号不匹配
+  11_sharpen_fitler.c
+f:\32_leetcode_image\image\src\11_sharpen_fitler.c(20): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\11_sharpen_fitler.c(21): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\11_sharpen_fitler.c(52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\32_leetcode_image\image\src\11_sharpen_fitler.c(55): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\11_sharpen_fitler.c(56): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\11_sharpen_fitler.c(67): warning C4047: “函数”:“int **”与“int [3][3]”的间接级别不同
+f:\32_leetcode_image\image\src\11_sharpen_fitler.c(67): warning C4024: “sum_val”: 形参和实参 3 的类型不同
+  12_DFT.c
+f:\32_leetcode_image\image\src\12_dft.c(11): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\12_dft.c(12): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\12_dft.c(16): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\12_dft.c(17): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\12_dft.c(42): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\12_dft.c(43): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\12_dft.c(47): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\12_dft.c(48): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\12_dft.c(57): warning C4244: “=”: 从“short”转换到“unsigned char”，可能丢失数据
+f:\32_leetcode_image\image\src\12_dft.c(76): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\12_dft.c(77): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\12_dft.c(80): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\12_dft.c(81): warning C4018: “<”: 有符号/无符号不匹配
+  13_Otsu.c
+f:\32_leetcode_image\image\src\13_otsu.c(14): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\13_otsu.c(15): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\13_otsu.c(76): warning C4133: “函数”: 从“unsigned char **”到“unsigned int **”的类型不兼容
+f:\32_leetcode_image\image\src\13_otsu.c(99): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\13_otsu.c(100): warning C4018: “<”: 有符号/无符号不匹配
+  14_Bi_shape.c
+f:\32_leetcode_image\image\src\14_bi_shape.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\32_leetcode_image\image\src\14_bi_shape.c(13): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\14_bi_shape.c(14): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\14_bi_shape.c(45): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\14_bi_shape.c(46): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\14_bi_shape.c(55): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\14_bi_shape.c(56): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\14_bi_shape.c(74): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\14_bi_shape.c(75): warning C4018: “<”: 有符号/无符号不匹配
+  15_knn.c
+f:\32_leetcode_image\image\src\15_knn.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\32_leetcode_image\image\src\15_knn.c(39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\32_leetcode_image\image\src\15_knn.c(60): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\15_knn.c(76): warning C4018: “<”: 有符号/无符号不匹配
+  16_linear_regression.c
+f:\32_leetcode_image\image\src\16_linear_regression.c(17): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  17_logistic_regression.c
+  18_softmax_regression.c
+  19_k_means.c
+f:\32_leetcode_image\image\src\19_k_means.c(8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\32_leetcode_image\image\src\19_k_means.c(108): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\32_leetcode_image\image\src\19_k_means.c(109): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  1_rgb565_to_gray.c
+  2_rgb565_exposure.c
+  3_image_dyeing.c
+f:\32_leetcode_image\image\src\3_image_dyeing.c(12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\32_leetcode_image\image\src\3_image_dyeing.c(13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\32_leetcode_image\image\src\3_image_dyeing.c(14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  4_gray_image_binary.c
+  5_Bilinear interpolation.c
+f:\32_leetcode_image\image\src\5_bilinear interpolation.c(22): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\5_bilinear interpolation.c(23): warning C4018: “<”: 有符号/无符号不匹配
+  6_Affine_transformation.c
+f:\32_leetcode_image\image\src\6_affine_transformation.c(22): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\6_affine_transformation.c(24): warning C4018: “<”: 有符号/无符号不匹配
+  7_Gray_transformation.c
+f:\32_leetcode_image\image\src\7_gray_transformation.c(8): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\7_gray_transformation.c(9): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\7_gray_transformation.c(21): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\7_gray_transformation.c(22): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\7_gray_transformation.c(33): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\7_gray_transformation.c(34): warning C4018: “<”: 有符号/无符号不匹配
+  8_Histogram.c
+f:\32_leetcode_image\image\src\8_histogram.c(6): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\8_histogram.c(7): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\8_histogram.c(31): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\8_histogram.c(32): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\8_histogram.c(34): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  9_linear_filter.c
+f:\32_leetcode_image\image\src\9_linear_filter.c(31): warning C4018: “<”: 有符号/无符号不匹配
+f:\32_leetcode_image\image\src\9_linear_filter.c(32): warning C4018: “<”: 有符号/无符号不匹配
+  pixel_deal.c
+f:\32_leetcode_image\image\src\pixel_deal.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  main.cpp
+d:\opencv\opencv\build\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  test.vcxproj -> F:\32_leetcode_image\image\test\test\Debug\test.exe
